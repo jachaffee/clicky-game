@@ -1,0 +1,14 @@
+.nav-pills {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #d9453d;
+    min-height: 50px;
+    width: 100%;
+    text-align: center;
+    text-shadow: 0 0 5px #000;
+    color: #fff;
+    font-size: 32px;
+    font-weight: bold;
+    z-index: 99;
+}
