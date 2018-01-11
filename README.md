@@ -1,3 +1,15 @@
+# Clicky Game
+
+## Description
+
+### A game created using React. This is a memory game where the user is presented with a group of images, and must attempt to click on all the different images without clicking on the same image twice. After each successful click the images are scrambled to make the game a greater challenge.
+
+![ Game Screen]( /images/game_play1.png )
+
+![ Game Screen]( /images/game_play2.png )
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
